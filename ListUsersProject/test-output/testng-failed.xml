@@ -5,7 +5,6 @@
     <classes>
       <class name="Test_Request">
         <methods>
-          <include name="Post_Login_Succesful"/>
           <include name="Post_Register_Successful"/>
         </methods>
       </class> <!-- Test_Request -->
